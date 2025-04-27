@@ -1,4 +1,3 @@
-import { PpGen } from "./_ppgen";
 import SlideThing from "./_yuh";
 
 export default function Home() {
